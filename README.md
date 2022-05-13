@@ -22,7 +22,7 @@ Then App Calculate it
 ![Result](https://user-images.githubusercontent.com/88752412/168194294-9fd2e962-b788-451d-985b-a61c459213aa.png)</br></br></br></br>
 # Soical Media links
 <p align="flex-start">
-    <a href="mailto:aymangabllah71@gmail.com"><img src="https://img.shields.io/badge/Gmail-%231FA1F1?style=square&logo=Gmail&logoColor=red"/></a>
+    <a href="mailto:aymangaballah71@gmail.com"><img src="https://img.shields.io/badge/Gmail-%231FA1F1?style=square&logo=Gmail&logoColor=red"/></a>
     <a href="https://www.linkedin.com/in/ayman-gaballah-9b57a421a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
  
